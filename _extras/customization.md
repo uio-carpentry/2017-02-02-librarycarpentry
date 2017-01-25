@@ -20,8 +20,8 @@ which must define the following values in its header:
 
 *   `layout` must be `workshop`.
 
-*   `carpentry` must be either "dc" (for Data Carpentry) or "swc" (for
-    Software Carpentry).
+*   `carpentry` must be either "lc" (for Library Carpentry), "dc"
+    (for Data Carpentry) or "swc" (for Software Carpentry).
 
 *   `venue` is the short name of the institution or group hosting the
     workshop, like "Euphoric State University".  It should *not*
